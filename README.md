@@ -5,7 +5,7 @@
 
 </head>
 
-<body bgcolor = "blue">
+<body style="background-color: lightblue;">
 <br>
   <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <br>
