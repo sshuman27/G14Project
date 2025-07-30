@@ -5,7 +5,7 @@
 
 </head>
 
-<body>
+<body style="background-color:DodgerBlue;>
 <br>
   <h1 style="background-color:DodgerBlue;">Hello World</h1>
 
