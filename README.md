@@ -5,7 +5,7 @@
 
 </head>
 
-<body style="background-color: lightblue;">
+<body style="background-color: #2B3459;">
 <br>
   <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <br>
