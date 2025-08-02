@@ -1,27 +1,21 @@
 
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>My Sample Webpage</title>
 </head>
 <body>
 
-  <!-- Heading -->
   <h1>Welcome to My Webpage</h1>
 
-  <!-- Paragraph -->
   <p>This is a basic example of an HTML page. It includes headings, links, images, and more.</p>
 
-  <!-- Horizontal Line -->
   <hr>
 
-  <!-- Image -->
   <img src="https://via.placeholder.com/300" alt="Sample Image" width="300">
 
-  <!-- Link -->
-  <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a></p>
+<p>Visit <a href="https://www.example.com" target="_blank">Example.com</a></p>
 
-  <!-- Unordered List -->
   <h2>My Hobbies</h2>
   <ul>
     <li>Reading</li>
@@ -55,13 +49,10 @@
     </tr>
   </table>
 
-  <!-- Button -->
   <p><button onclick="alert('Thanks for clicking!')">Click Me</button></p>
 
-  <!-- Comment -->
   <!-- This is a comment and will not show up in the browser -->
 
-  <!-- Footer -->
   <footer>
     <p>Page created by You – <script>document.write(document.lastModified);</script></p>
   </footer>
