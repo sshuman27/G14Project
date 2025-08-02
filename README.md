@@ -1,8 +1,7 @@
 
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>My Sample Webpage</title>
+  <title>Eloheh Company Services</title>
 </head>
 <body>
 
