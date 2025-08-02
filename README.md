@@ -1,21 +1,70 @@
 
-<html>
-
+<html lang="en">
 <head>
-
+  <meta charset="UTF-8">
+  <title>My Sample Webpage</title>
 </head>
+<body>
 
-<body style="background-color: #2B3459;">
-<br>
-  <h1 style="background-color:DodgerBlue;">Hello World</h1>
-<br>
-  <img width="250" height="250" alt="—Pngtree—drug capsule pill from prescription_15366552" src="https://github.com/user-attachments/assets/74751f2f-e443-4afc-93db-55238d1c4d80" />
+  <!-- Heading -->
+  <h1>Welcome to My Webpage</h1>
 
-<br>
-<a href = "http://www.purdue.edu" target = "_blank">Purdue University</a>
+  <!-- Paragraph -->
+  <p>This is a basic example of an HTML page. It includes headings, links, images, and more.</p>
+
+  <!-- Horizontal Line -->
+  <hr>
+
+  <!-- Image -->
+  <img src="https://via.placeholder.com/300" alt="Sample Image" width="300">
+
+  <!-- Link -->
+  <p>Visit <a href="https://www.example.com" target="_blank">Example.com</a></p>
+
+  <!-- Unordered List -->
+  <h2>My Hobbies</h2>
+  <ul>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Gaming</li>
+  </ul>
+
+  <!-- Ordered List -->
+  <h2>Steps to Make Coffee</h2>
+  <ol>
+    <li>Boil water</li>
+    <li>Add coffee grounds</li>
+    <li>Pour hot water</li>
+    <li>Stir and enjoy</li>
+  </ol>
+
+  <!-- Table -->
+  <h2>My Schedule</h2>
+  <table border="1">
+    <tr>
+      <th>Day</th>
+      <th>Activity</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>Work</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>Class</td>
+    </tr>
+  </table>
+
+  <!-- Button -->
+  <p><button onclick="alert('Thanks for clicking!')">Click Me</button></p>
+
+  <!-- Comment -->
+  <!-- This is a comment and will not show up in the browser -->
+
+  <!-- Footer -->
+  <footer>
+    <p>Page created by You – <script>document.write(document.lastModified);</script></p>
+  </footer>
+
 </body>
-
-
-
-
 </html>
