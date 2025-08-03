@@ -1,59 +1,153 @@
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Eloheh Company Services</title>
+    <meta charset="UTF-8">
+    <title>Eloheh Healthcare - Our Story</title>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            background-color: #ffffff;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #004c3f;
+        .banner {
+            background-image: url('https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg');
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-shadow: 2px 2px 4px #000;
+        }
+
+        h1 {
+            font-size: 32px;
+        .banner h1 {
+            font-size: 36px;
+            font-family: 'Georgia', serif;
+            background-color: rgba(0, 0, 0, 0.4);
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2 {
+            font-size: 22px;
+            color: #004c3f;
+        }
+
+        .highlight {
+            font-style: italic;
+            color: #0077b6;
+        }
+
+        .important {
+            font-weight: bold;
+            font-size: 18px;
+            font-family: 'Arial', sans-serif;
+            color: #b22222;
+        }
+
+        img {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: 20px auto;
+        }
+
+        a {
+            color: #0077b6;
+            text-decoration: none;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            text-align: center;
+            color: gray;
+        }
+
+        ul, ol {
+            padding-left: 20px;
+        }
+
+        /* Button styling */
+        .download-btn {
+            display: inline-block;
+            background-color: #004c3f;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #006b50;
+        }
+    </style>
 </head>
-<body style="background-color: #b5651d;">
-  <h1>Eloheh Company Services</h1>
+<body>
 
-  <p>.</p>
+    <header>
+    <div class="banner">
+        <h1>Eloheh Healthcare</h1>
+        <p><i>Your Partner in Holistic Wellness</i></p>
+    </header>
+    </div>
 
-  <hr>
+    <div class="container">
+        <p><i>Your Partner in Holistic Wellness</i></p>
 
-  <img src="https://via.placeholder.com/300" alt="Sample Image" width="300">
+        <h2>Our Story</h2>
+        <p><span class="important">Eloheh Healthcare</span> was <u>established in 2015</u> with a mission to deliver inclusive, compassionate, and accessible healthcare to individuals from all walks of life.</p>
 
-<p>Visit <a href="https://www.example.com" target="_blank">Example.com</a></p>
+@@ -100,23 +126,24 @@
+            <li>Sustainability and community support</li>
+        </ul>
 
-  <h2>My Hobbies</h2>
-  <ul>
-    <li>Reading</li>
-    <li>Coding</li>
-    <li>Gaming</li>
-  </ul>
+        <img src="https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg" alt="Eloheh Photo">
+        <img src="https://via.placeholder.com/800x300.png?text=Eloheh+Team+and+Community+Wellness" alt="Eloheh Team Photo">
 
-  <!-- Ordered List -->
-  <h2>Steps to Make Coffee</h2>
-  <ol>
-    <li>Boil water</li>
-    <li>Add coffee grounds</li>
-    <li>Pour hot water</li>
-    <li>Stir and enjoy</li>
-  </ol>
+        <p>For more on global health efforts, visit the <a href="https://www.who.int" target="_blank">World Health Organization</a>.</p>
 
-  <!-- Table -->
-  <h2>My Schedule</h2>
-  <table border="1">
-    <tr>
-      <th>Day</th>
-      <th>Activity</th>
-    </tr>
-    <tr>
-      <td>Monday</td>
-      <td>Work</td>
-    </tr>
-    <tr>
-      <td>Tuesday</td>
-      <td>Class</td>
-    </tr>
-  </table>
+        <p><a href="eloheh_services_brochure.pdf" download>📄 Download Our Brochure</a></p>
+        <p>
+            <a class="download-btn" href="eloheh_services_brochure.pdf" download>📄 Download Our Brochure</a>
+        </p>
 
-  <p><button onclick="alert('Thanks for clicking!')">Click Me</button></p>
+        <p><a href="mailto:contact@elohehhealth.org">📧 Contact Me</a></p>
+    </div>
 
-  <!-- This is a comment and will not show up in the browser -->
-
-  <footer>
-    <p>Page created by You – <script>document.write(document.lastModified);</script></p>
-  </footer>
+    <footer>
+        <p>Last updated: 
+            <script>
+                document.write(new Date(document.lastModified).toLocaleDateString());
+            </script>
+        </p>
+    </footer>
 
 </body>
 </html>
