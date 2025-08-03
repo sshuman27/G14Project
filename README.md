@@ -73,7 +73,7 @@
     <center>
         <h2>Included Services</h2>
     </center>
-        <p><strong>Eloheh Healthcare</strong> was <u>established in 2015</u> with a mission to deliver inclusive, compassionate, and accessible healthcare to individuals from all walks of life.</p>
+        <p><strong>Eloheh Healthcare</strong> strives itself on its ability to create and provide the best services <br> for all users of our Healthcare services.</p>
 
         <ul>
             <li>In-home healthcare services</li>
