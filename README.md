@@ -19,7 +19,7 @@
         }
 
         header {
-            background-color: #004c3f;
+        
         .banner {
             background-image: url('https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg');
             background-size: cover;
