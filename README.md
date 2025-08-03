@@ -1,104 +1,94 @@
-
 <html>
 <head>
     <meta charset="UTF-8">
     <title>Eloheh Healthcare - Services</title>
     <style>
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
         body {
-            font-family: 'Verdana', sans-serif;
-            color: #333333;
+            font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            color: #333;
         }
 
         .banner {
             background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
             background-size: cover;
             background-position: center;
-            height: 300px;
+            height: 250px;
             display: flex;
-            align-items: center;
             justify-content: center;
+            align-items: center;
             color: white;
             text-shadow: 1px 1px 3px black;
-            font-size: 30px;
         }
 
         .banner h1 {
-            font-size: 36px;
-            font-family: 'Georgia', serif;
             background-color: rgba(0, 0, 0, 0.4);
-            padding: 10px 20px;
-            border-radius: 8px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 10px;
         }
 
         h2 {
-            margin-top: 40px;
+            text-align: center;
         }
 
-        ul, ol {
+        ul {
             padding-left: 20px;
         }
 
         .download-btn {
-            display: inline-block;
-            background-color: #004c3f;
+            background-color: #006b50;
             color: white;
-            padding: 10px 20px;
-            border-radius: 6px;
-            font-size: 16px;
-            font-weight: bold;
+            padding: 10px 15px;
             text-decoration: none;
-            transition: background-color 0.3s ease;
+            border-radius: 5px;
         }
 
         .download-btn:hover {
-            background-color: #006b50;
+            background-color: #004c3f;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 14px;
+            margin: 40px 0 20px;
+            color: gray;
         }
     </style>
 </head>
 <body>
 
-    <header class="banner">
+    <div class="banner">
         <h1>Eloheh Healthcare Services</h1>
-    </header>
+    </div>
 
     <div class="container">
-    <center>
         <h2>Included Services</h2>
-    </center>
-        <p><strong>Eloheh Healthcare</strong> strives itself on its ability to create and provide the best services for all users of our Healthcare services.</p>
+
+        <p><strong>Eloheh Healthcare</strong> provides quality healthcare services for all our clients with care and compassion.</p>
 
         <ul>
-            <li>In-home healthcare services</li>
-            <br>
+            <li>In-home healthcare</li>
             <li>Telehealth consultations</li>
-            <br>
-            <li>Wellness education & prevention programs</li>
-            <br>
-            <li>Medical equipment & supply delivery</li>
-            <br>
-            <li>Community health initiatives</li>
-            <br>
-            <li>Chronic illness care coordination</li>
-            <br>
-            <li>Sustainability and community support</li>
-            <br>
+            <li>Wellness education</li>
+            <li>Medical supply delivery</li>
+            <li>Community health programs</li>
+            <li>Chronic illness care</li>
         </ul>
 
-        <img src="https://via.placeholder.com/800x300.png?text=Eloheh+Team+and+Community+Wellness" alt="Eloheh Team Photo">
+        <img src="https://via.placeholder.com/800x300.png?text=Eloheh+Team+and+Community+Wellness" alt="Team photo" style="width: 100%; margin: 20px 0;">
 
-        <p>For more on global health efforts, visit the <a href="https://www.who.int" target="_blank">World Health Organization</a>.</p>
+        <p>Visit the <a href="https://www.who.int" target="_blank">World Health Organization</a> to learn more about global health.</p>
 
         <p><a class="download-btn" href="eloheh_services_brochure.pdf" download>📄 Download Our Brochure</a></p>
 
-        <p><a href="mailto:contact@elohehhealth.org">📧 Contact Me</a></p>
+        <p><a href="mailto:contact@elohehhealth.org">📧 Contact Us</a></p>
     </div>
 
     <footer>
