@@ -17,8 +17,7 @@
 
         header {
         .banner {
-            background-image: url(![2149611211].jpg)
-);
+            background-image: asset/(![2149611211](https://github.com/user-attachments/assets/0692132f-f161-4cd2-8cc4-0ea622264225);
             background-size: cover;
             background-position: center;
             height: 250px;
