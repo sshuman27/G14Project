@@ -70,7 +70,9 @@
     </header>
 
     <div class="container">
+    <center>
         <h2>Included Services</h2>
+    </center>
         <p><strong>Eloheh Healthcare</strong> was <u>established in 2015</u> with a mission to deliver inclusive, compassionate, and accessible healthcare to individuals from all walks of life.</p>
 
         <ul>
