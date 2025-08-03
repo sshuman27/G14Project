@@ -17,7 +17,7 @@
 
         header {
         .banner {
-            background-image: url(![Healthcare](https://github.com/user-attachments/assets/90df568a-25aa-41ec-bf18-b045add6cffd);
+            background-image: url(![2149611211](https://github.com/user-attachments/assets/526cfc45-c307-453b-8b9f-742718418827);
             background-size: cover;
             background-position: center;
             height: 250px;
