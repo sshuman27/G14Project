@@ -73,7 +73,7 @@
     <center>
         <h2>Included Services</h2>
     </center>
-        <p><strong>Eloheh Healthcare</strong> strives itself on its ability to create and provide the best services <br> for all users of our Healthcare services.</p>
+        <p><strong>Eloheh Healthcare</strong> strives itself on its ability to create and provide the best services for all users of our Healthcare services.</p>
 
         <ul>
             <li>In-home healthcare services</li>
