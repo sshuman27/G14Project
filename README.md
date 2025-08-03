@@ -17,7 +17,7 @@
 
         header {
        .banner {
-    background-image: url(https://img.freepik.com/free-vector/doctor-medical-healthcare-pfrofessional-character_53876-97822.jpg?semt=ais_hybrid&w=740);
+    background-image: url(https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?semt=ais_hybrid&w=740);
     background-size: cover;
     background-position: center;
     height: 300px;
