@@ -19,7 +19,6 @@
         }
 
         header {
-        
         .banner {
             background-image: url('https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg');
             background-size: cover;
@@ -59,6 +58,7 @@
         /* Button styling */
         .download-btn {
             display: inline-block;
+            background-color: #004c3f;
             color: white;
             padding: 10px 20px;
             border-radius: 6px;
@@ -68,7 +68,9 @@
             transition: background-color 0.3s ease;
         }
 
-        .download-btn:hover
+        .download-btn:hover {
+            background-color: #006b50;
+        }
     </style>
 </head>
 <body>
