@@ -36,13 +36,7 @@
 
         h1 {
             font-size: 32px;
-        .banner h1 {
-            font-size: 36px;
-            font-family: 'Georgia', serif;
-            background-color: rgba(0, 0, 0, 0.4);
-            padding: 10px 20px;
-            border-radius: 8px;
-        }
+        .banner h1 
 
         .container {
             max-width: 1000px;
@@ -55,7 +49,20 @@
         ul, ol {
             padding-left: 20px;
         
+}
 
+        /* Button styling */
+        .download-btn {
+            display: inline-block;
+            background-color: #004c3f;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
         .download-btn:hover }
     </style>
 </head>
