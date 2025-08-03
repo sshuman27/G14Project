@@ -85,7 +85,8 @@
             <li>Sustainability and community support</li>
         </ul>
 
-        <img src="https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg" alt="Eloheh Photo">
+        <img src="<img width="281" height="175" alt="image" src="https://github.com/user-attachments/assets/1c678b79-e870-4e6d-9279-b4e6305fa852" />
+" alt="Eloheh Photo">
         <img src="https://via.placeholder.com/800x300.png?text=Eloheh+Team+and+Community+Wellness" alt="Eloheh Team Photo">
 
         <p>For more on global health efforts, visit the <a href="https://www.who.int" target="_blank">World Health Organization</a>.</p>
