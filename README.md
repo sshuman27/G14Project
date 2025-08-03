@@ -1,16 +1,76 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Eloheh Healthcare - Our Story</title>
     <style>
-        body {
+ body {
             font-family: 'Verdana', sans-serif;
             background-color: #ffffff;
             color: #333333;
             margin: 0;
             padding: 0;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #004c3f;
+        .banner {
+            background-image: url('https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg');
+            background-size: cover;
+            background-position: center;
+            height: 250px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-shadow: 2px 2px 4px #000;
+        }
+
+        h1 {
+            font-size: 32px;
+        .banner h1 {
+            font-size: 36px;
+            font-family: 'Georgia', serif;
+            background-color: rgba(0, 0, 0, 0.4);
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2 {
+@@ -69,16 +77,34 @@
+        ul, ol {
+            padding-left: 20px;
+        }
+
+        /* Button styling */
+        .download-btn {
+            display: inline-block;
+            background-color: #004c3f;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #006b50;
         }
     </style>
 </head>
