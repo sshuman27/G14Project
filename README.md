@@ -17,7 +17,7 @@
 
         header {
         .banner {
-            background-image: url('https://www.odu.edu/sites/default/files/program-page/headerimages/global-health-header.jpeg');
+            background-image: url(![Healthcare](https://github.com/user-attachments/assets/90df568a-25aa-41ec-bf18-b045add6cffd);
             background-size: cover;
             background-position: center;
             height: 250px;
