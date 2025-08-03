@@ -16,19 +16,18 @@
         }
 
         header {
-        .banner {
-            background-image: asset/(![2149611211](https://github.com/user-attachments/assets/0692132f-f161-4cd2-8cc4-0ea622264225);
-            background-size: cover;
-            background-position: center;
-            height: 250px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            padding: 20px;
-            text-align: center;
-            text-shadow: 2px 2px 4px #000;
-        }
+       .banner {
+    background-image: url('images/healthcare-bg.jpg'); /* Adjust the path as needed */
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    font-size: 32px;
+}
 
         h1 {
             font-size: 32px;
