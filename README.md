@@ -54,20 +54,7 @@
 @@ -69,16 +77,34 @@
         ul, ol {
             padding-left: 20px;
-        }
-
-        /* Button styling */
-        .download-btn {
-            display: inline-block;
-            background-color: #004c3f;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 6px;
-            font-size: 16px;
-            font-weight: bold;
-            text-decoration: none;
-            transition: background-color 0.3s ease;
-        }
+        
 
         .download-btn:hover }
     </style>
