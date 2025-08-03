@@ -10,7 +10,6 @@
         }
         body {
             font-family: 'Verdana', sans-serif;
-            background-color: #ffffff;
             color: #333333;
             margin: 0;
             padding: 0;
