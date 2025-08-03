@@ -1,21 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>Eloheh Healthcare - Our Story</title>
+    <title>Eloheh Healthcare - Services</title>
     <style>
+       .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         body {
             font-family: 'Verdana', sans-serif;
             background-color: #ffffff;
             color: #333333;
             margin: 0;
             padding: 0;
-        }
-
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 20px;
         }
 
         header {
