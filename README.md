@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Eloheh Healthcare - Our Story</title>
     <style>
- body {
+        body {
             font-family: 'Verdana', sans-serif;
             background-color: #ffffff;
             color: #333333;
@@ -36,7 +36,13 @@
 
         h1 {
             font-size: 32px;
-        .banner h1 
+        .banner h1 {
+            font-size: 36px;
+            font-family: 'Georgia', serif;
+            background-color: rgba(0, 0, 0, 0.4);
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
 
         .container {
             max-width: 1000px;
@@ -48,13 +54,11 @@
 @@ -69,16 +77,34 @@
         ul, ol {
             padding-left: 20px;
-        
-}
+        }
 
         /* Button styling */
         .download-btn {
             display: inline-block;
-            background-color: #004c3f;
             color: white;
             padding: 10px 20px;
             border-radius: 6px;
@@ -63,7 +67,8 @@
             text-decoration: none;
             transition: background-color 0.3s ease;
         }
-        .download-btn:hover }
+
+        .download-btn:hover
     </style>
 </head>
 <body>
