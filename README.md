@@ -7,7 +7,7 @@
 <bgcolor="#b5651d"
   <h1>Eloheh Company Services</h1>
 
-  <p>This is a basic example of an HTML page. It includes headings, links, images, and more.</p>
+  <p>.</p>
 
   <hr>
 
