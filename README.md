@@ -77,12 +77,19 @@
 
         <ul>
             <li>In-home healthcare services</li>
+            <br>
             <li>Telehealth consultations</li>
+            <br>
             <li>Wellness education & prevention programs</li>
+            <br>
             <li>Medical equipment & supply delivery</li>
+            <br>
             <li>Community health initiatives</li>
+            <br>
             <li>Chronic illness care coordination</li>
+            <br>
             <li>Sustainability and community support</li>
+            <br>
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Eloheh+Team+and+Community+Wellness" alt="Eloheh Team Photo">
