@@ -69,9 +69,7 @@
             transition: background-color 0.3s ease;
         }
 
-        .download-btn:hover {
-            background-color: #006b50;
-        }
+        .download-btn:hover }
     </style>
 </head>
 <body>
