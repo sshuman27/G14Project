@@ -73,13 +73,10 @@
 <body>
     <header>
 <div class="banner">
-        <h1>Eloheh Healthcare</h1>
-        <p><i>Your Partner in Holistic Wellness</i></p>
+        <h1>Eloheh Healthcare Services</h1>
 </header>
 </div>
         <div class="container">
-        <p><i>Your Partner in Holistic Wellness</i></p>
-
         <h2>Our Story</h2>
         <p><span class="important">Eloheh Healthcare</span> was <u>established in 2015</u> with a mission to deliver inclusive, compassionate, and accessible healthcare to individuals from all walks of life.</p>
 
