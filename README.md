@@ -70,10 +70,10 @@
 
         <ul>
         <br>
-            <li><b><u><i>In-home healthcare</i></u></b></li>
+            <li><b><u><i>At-home healthcare</i></u></b></li>
             <br>
         <p style="line-height: 2.0;">
-    We provide a multitude of our best licensed professionals to provide in-home care specialized for you and
+    We provide a multitude of our best licensed professionals to provide at-home care specialized for you and
     <br>
     your loved ones. This can include anything from routine checkups to more serious care like administering
     <br>
