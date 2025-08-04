@@ -70,7 +70,8 @@
 
         <ul>
         <br>
-            <li><b><u><i>In-home healthcare</i></u></b></li> provides a multitude of our best licensed professionals to provide in-home care specialized for you and your loved ones.
+            <li><b><u><i>In-home healthcare</i></u></b></li>
+            We provide a multitude of our best licensed professionals to provide in-home care specialized for you and your loved ones. This can include anything from routine checkups to more serious care like administering medicine, analyzing recovery steps, and repairing recovery wounds and ailments. This allows all patients to recover and keep up with their own health in the comfort of their own home.
             <br>
             <li><b><u><i>Telehealth calls</i></u></b></li>
             <br>
