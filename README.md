@@ -70,15 +70,15 @@
 
         <ul>
         <br>
-            <li>In-home healthcare</li>
+            <li><b><u><i>In-home healthcare</i></u></b></li>
             <br>
-            <li>Telehealth calls</li>
+            <li><b><u><i>Telehealth calls</i></u></b></li>
             <br>
-            <li>Wellness programs</li>
+            <li><b><u><i>Wellness programs</i></u></b></li>
             <br>
-            <li>Medical supply delivery</li>
+            <li><b><u><i>Medical supply delivery</i></u></b></li>
             <br>
-            <li>Community outreach</li>
+            <li><b><u><i>Community outreach</i></u></b></li>
             <br>
         </ul>
 
