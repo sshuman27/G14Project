@@ -71,11 +71,7 @@
         <ul>
         <br>
             <li><b><u><i>In-home healthcare</i></u></b></li>
-        <br>We provide a multitude of our best licensed professionals to provide in-home care specialized for you and
-        <br>your loved ones. This can include anything from routine checkups to more serious care like administering
-        <br>medicine, analyzing recovery steps, and repairing recovery wounds and ailments. This allows all patients to
-        <br>recover and keep up with their own health in the comfort of their own home.
-        <p style="line-height: 1.8;">
+        <p style="line-height: 2.0;">
     We provide a multitude of our best licensed professionals to provide in-home care specialized for you and
     <br>your loved ones. This can include anything from routine checkups to more serious care like administering
     <br>medicine, analyzing recovery steps, and repairing recovery wounds and ailments. This allows all patients to
