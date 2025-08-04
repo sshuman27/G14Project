@@ -8,13 +8,14 @@
             padding: 0;
         }
         .banner {
-            background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
-            background-size: cover;
-            background-position: center;
-            height: 200px;
-            color: white;
-            padding-top: 70px;}
-       
+    background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    color: white;
+    padding-top: 70px;
+}
+
         .container {
             width: 90%;
             max-width: 800px;
