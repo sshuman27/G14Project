@@ -47,13 +47,18 @@
         <h2>Included Services</h2>
 
         <p><strong>Eloheh Healthcare</strong> helps people stay healthy with quality care and support.</p>
-
+<br>
         <ul>
             <li>In-home healthcare</li>
+            <br>
             <li>Telehealth calls</li>
+            <br>
             <li>Wellness programs</li>
+            <br>
             <li>Medical supply delivery</li>
+            <br>
             <li>Community outreach</li>
+            <br>
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
