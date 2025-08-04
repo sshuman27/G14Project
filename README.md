@@ -66,11 +66,11 @@
     <div class="container">
         <center> <h2>Included Services</h2> </center>
 
-        <p><b>Eloheh Healthcare</b> helps people stay healthy with quality care and support.</p>
+        <p><b>Eloheh Healthcare</b> helps people stay healthy with quality care and support. The services below are all available for any member of <b> Eloheh Healthcare.</b></p>
 
         <ul>
         <br>
-            <li><b><u><i>In-home healthcare</i></u></b></li>
+            <li><b><u><i>In-home healthcare</i></u></b></li> provides a multitude of our best licensed professionals to provide in-home care specialized for you and your loved ones.
             <br>
             <li><b><u><i>Telehealth calls</i></u></b></li>
             <br>
