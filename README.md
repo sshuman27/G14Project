@@ -7,7 +7,6 @@
             margin: 0;
             padding: 0;
         }
-<center>
         .banner {
             background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
             background-size: cover;
@@ -15,7 +14,7 @@
             height: 200px;
             color: white;
             padding-top: 70px;}
-</center>
+       
         .container {
             width: 90%;
             max-width: 800px;
