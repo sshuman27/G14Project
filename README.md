@@ -26,7 +26,7 @@
             padding: 10px 20px;
             border-radius: 8px;
             margin: 0;
-            font-size: 28px;
+            font-size: 38px;
         }
 
         .container {
