@@ -102,6 +102,10 @@
                 <br>
             <li><b><u><i>Medical supply delivery</i></u></b></li>
             <br>
+            <p style="line-height: 2.0;">
+            We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our production and allow all products to arrive weeks earlier than the end of your prescription to ensure you won't run out of medicine early and keep you healthy for longer. Many products will be offered at lower rates than that at retail, from diabetes insulin, to wound bandages, and medically prescribed remedies, brought straight to your front door.
+
+            </p>
             <li><b><u><i>Community outreach</i></u></b></li>
             <br>
         </ul>
