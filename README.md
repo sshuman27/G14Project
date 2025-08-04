@@ -64,16 +64,22 @@
     </div>
 
     <div class="container">
-        <h2>Included Services</h2>
+        <center> <h2>Included Services</h2> </center>
 
-        <p><strong>Eloheh Healthcare</strong> helps people stay healthy with quality care and support.</p>
+        <p><b>Eloheh Healthcare</b> helps people stay healthy with quality care and support.</p>
 
         <ul>
+        <br>
             <li>In-home healthcare</li>
+            <br>
             <li>Telehealth calls</li>
+            <br>
             <li>Wellness programs</li>
+            <br>
             <li>Medical supply delivery</li>
+            <br>
             <li>Community outreach</li>
+            <br>
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
