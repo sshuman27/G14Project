@@ -7,31 +7,20 @@
             margin: 0;
             padding: 0;
         }
-
+<center>
         .banner {
             background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
             background-size: cover;
             background-position: center;
             height: 200px;
             color: white;
-            text-align: center;
-            padding-top: 70px;
-        }
-
+            padding-top: 70px;}
+</center>
         .container {
             width: 90%;
             max-width: 800px;
-            margin: 20px auto;
-        }
-
-        h2 {
-            text-align: center;
-        }
-
-        ul {
-            padding-left: 20px;
-        }
-
+            margin: 20px auto;}
+        ul {padding-left: 20px;}
         .button {
             display: inline-block;
             padding: 10px 15px;
@@ -42,7 +31,6 @@
         }
 
         footer {
-            text-align: center;
             font-size: 14px;
             color: gray;
             margin-top: 40px;
