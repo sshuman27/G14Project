@@ -71,6 +71,7 @@
         <ul>
         <br>
             <li><b><u><i>In-home healthcare</i></u></b></li>
+            <br>
         <p style="line-height: 2.0;">
     We provide a multitude of our best licensed professionals to provide in-home care specialized for you and
     <br>your loved ones. This can include anything from routine checkups to more serious care like administering
@@ -78,9 +79,11 @@
     <br>recover and keep up with their own health in the comfort of their own home.
 </p>
         <br>
-            <li><b><u><i>Telehealth calls</i></u></b></li>
-            <br>
             <li><b><u><i>Wellness programs</i></u></b></li>
+            <br>
+            <p style="line-height: 2.0;">
+                We offer structured programs to help guide aby member and patient to a healthier and smarter lifestyle. Included programs include physical programs to learn how to properly exercise with minimal weight and bodyweight for easy at home ease, Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health, Mental Health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need, and lastly our addiction specialists which are pampered to help all individuals learn how to get off of their vices in the healthiest and safest way.
+            </p>
             <br>
             <li><b><u><i>Medical supply delivery</i></u></b></li>
             <br>
