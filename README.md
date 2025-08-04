@@ -84,7 +84,6 @@
         <br>
             <li><b><u><i>Wellness programs</i></u></b></li>
             <br>
-            <p style="line-height: 2.0;">
                 We offer structured programs to help guide aby member and patient to a healthier and smarter lifestyle. 
                 <br>
                 Included programs include physical programs to learn how to properly exercise with minimal weight and 
@@ -98,7 +97,6 @@
                 help all patients in their time of need, and lastly our addiction specialists which are pampered to help all 
                 <br>
                 individuals learn how to get off of their vices in the healthiest and safest way.
-            </p>
             <br>
             <li><b><u><i>Medical supply delivery</i></u></b></li>
             <br>
