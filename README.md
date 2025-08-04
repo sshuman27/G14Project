@@ -7,20 +7,38 @@
             margin: 0;
             padding: 0;
         }
+
         .banner {
-    background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
-    background-size: cover;
-    background-position: center;
-    height: 200px;
-    color: white;
-    padding-top: 70px;
-}
+            background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
+            background-size: cover;
+            background-position: center;
+            height: 200px;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            text-shadow: 1px 1px 3px black;
+        }
+
+        .banner h1 {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin: 0;
+            font-size: 28px;
+        }
 
         .container {
             width: 90%;
             max-width: 800px;
-            margin: 20px auto;}
-        ul {padding-left: 20px;}
+            margin: 20px auto;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
         .button {
             display: inline-block;
             padding: 10px 15px;
@@ -28,11 +46,13 @@
             color: white;
             text-decoration: none;
             border-radius: 5px;
+            margin: 10px 0;
         }
 
         footer {
             font-size: 14px;
             color: gray;
+            text-align: center;
             margin-top: 40px;
         }
     </style>
@@ -47,18 +67,13 @@
         <h2>Included Services</h2>
 
         <p><strong>Eloheh Healthcare</strong> helps people stay healthy with quality care and support.</p>
-<br>
+
         <ul>
             <li>In-home healthcare</li>
-            <br>
             <li>Telehealth calls</li>
-            <br>
             <li>Wellness programs</li>
-            <br>
             <li>Medical supply delivery</li>
-            <br>
             <li>Community outreach</li>
-            <br>
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
