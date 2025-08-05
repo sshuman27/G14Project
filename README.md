@@ -69,55 +69,71 @@
         <p><b>Eloheh Healthcare</b> helps people stay healthy with quality care and support. The services below are all available for any member of <b> Eloheh Healthcare.</b></p>
 
         <ul>
+    <br>
+    <li><b><u><i>At-home healthcare</i></u></b></li>
+    <br>
+    <p style="line-height: 2.0;">
+        We provide a multitude of our best licensed professionals to provide at-home care specialized for you and
         <br>
-            <li><b><u><i>At-home healthcare</i></u></b></li>
-            <br>
-        <p style="line-height: 2.0;">
-    We provide a multitude of our best licensed professionals to provide at-home care specialized for you and
-    <br>
-    your loved ones. This can include anything from routine checkups to more serious care like administering
-    <br>
-    medicine, analyzing recovery steps, and repairing recovery wounds and ailments. This allows all patients to
-    <br>
-    recover and keep up with their own health in the comfort of their own home.
-</p>
+        your loved ones. This can include anything from routine checkups to more serious care like administering
         <br>
-            <li><b><u><i>Wellness programs</i></u></b></li>
-<br>
-<p style="line-height: 2.0;">
-    We offer structured programs to help guide any member and patient to a healthier and smarter lifestyle.
+        medicine, analyzing recovery steps, and repairing recovery wounds and ailments. This allows all patients to
+        <br>
+        recover and keep up with their own health in the comfort of their own home.
+    </p>
     <br>
-    Included programs include physical programs to learn how to properly exercise with minimal weight and 
+    <li><b><u><i>Wellness programs</i></u></b></li>
     <br>
-    bodyweight for easy at home ease:
-</p>
-<ol style="line-height: 2.0;">
-    <li>Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health</li>
-    <li>Mental Health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need</li>
-    <li>Our addiction specialists which are pampered to help all individuals learn how to get off of their vices in the healthiest and safest way</li>
-</ol>
-                <br>
-            <li><b><u><i>Medical Supply Delivery</i></u></b></li>
-            <br>
-            <p style="line-height: 2.0;">
-            We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to 
-                <br>
-                wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our 
-                <br>
-                production and allow all products to arrive weeks earlier than the end of your prescription to ensure you 
-                <br>
-                won't run out of medicine early and keep you healthy for longer. Many products will be offered at lower
-                <br>
-                rates than that at retail, from diabetes insulin, to wound bandages, and medically prescribed remedies, 
-                <br>
-                brought straight to your front door.
-
-            </p>
-            <li><b><u><i>Community outreach</i></u></b></li>
-            <br>
-          <p style="line-height: 2.0;">
-          We at Eloheh value the ability to be involved with each local community and make it our mission to serve each and every community we are graciously included in. We have done health fairs so people can learn more about how health works and how to improve ones own life through easy daily improvements, Screenings for the local people who can't afford to get screenings on a normal occasion, and workshops to teach the youth about how the body works and guide them into the field of healthcare if they deem it proper. All of these events are with local community organizations to help everyone in the community prosper and improve the most they can. All events are free in our communities and are beneficial for each and every person in the community.
-        </ul>
+    <p style="line-height: 2.0;">
+        We offer structured programs to help guide any member and patient to a healthier and smarter lifestyle.
+        <br>
+        Included programs include physical programs to learn how to properly exercise with minimal weight and
+        <br>
+        bodyweight for easy at-home ease:
+    </p>
+    <br>
+    <ol style="line-height: 2.0;">
+        <li>Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health</li>
+        <br>
+        <li>Mental health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need</li>
+        <br>
+        <li>Our addiction specialists which are pampered to help all individuals learn how to get off of their vices in the healthiest and safest way</li>
+    </ol>
+    <br>
+    <li><b><u><i>Medical Supply Delivery</i></u></b></li>
+    <br>
+    <p style="line-height: 2.0;">
+        We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to 
+        <br>
+        wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our 
+        <br>
+        production and allow all products to arrive weeks earlier than the end of your prescription to ensure you 
+        <br>
+        won't run out of medicine early and keep you healthy for longer. Many products will be offered at lower
+        <br>
+        rates than that at retail, from diabetes insulin, to wound bandages, and medically prescribed remedies, 
+        <br>
+        brought straight to your front door.
+    </p>
+    <br>
+    <li><b><u><i>Community outreach</i></u></b></li>
+    <br>
+    <p style="line-height: 2.0;">
+        We at Eloheh value the ability to be involved with each local community and make it our mission to serve each
+        <br>
+        and every community we are graciously included in. We have done health fairs so people can learn more about
+        <br>
+        how health works and how to improve one's own life through easy daily improvements, screenings for the local
+        <br>
+        people who can't afford to get screenings on a normal occasion, and workshops to teach the youth about how
+        <br>
+        the body works and guide them into the field of healthcare if they deem it proper. All of these events are
+        <br>
+        with local community organizations to help everyone in the community prosper and improve the most they can.
+        <br>
+        All events are free in our communities and are beneficial for each and every person in the community.
+    </p>
+</ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
       
