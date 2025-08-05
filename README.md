@@ -100,10 +100,20 @@
                 individuals learn how to get off of their vices in the healthiest and safest way.
             </p>
                 <br>
-            <li><b><u><i>Medical supply delivery</i></u></b></li>
+            <li><b><u><i>Medical Supply Delivery</i></u></b></li>
             <br>
             <p style="line-height: 2.0;">
-            We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our production and allow all products to arrive weeks earlier than the end of your prescription to ensure you won't run out of medicine early and keep you healthy for longer. Many products will be offered at lower rates than that at retail, from diabetes insulin, to wound bandages, and medically prescribed remedies, brought straight to your front door.
+            We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to 
+                <br>
+                wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our 
+                <br>
+                production and allow all products to arrive weeks earlier than the end of your prescription to ensure you 
+                <br>
+                won't run out of medicine early and keep you healthy for longer. Many products will be offered at lower
+                <br>
+                rates than that at retail, from diabetes insulin, to wound bandages, and medically prescribed remedies, 
+                <br>
+                brought straight to your front door.
 
             </p>
             <li><b><u><i>Community outreach</i></u></b></li>
@@ -114,7 +124,7 @@
 
         <p><a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a></p>
 
-        <p><a href="mailto:contact@elohehhealth.org">Contact Us</a></p>
+        <p><a href="sshuman@purdue.edu"><u>Contact Us</u></a></p>
     </div>
 
     <footer>
