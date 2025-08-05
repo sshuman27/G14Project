@@ -121,6 +121,10 @@
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
+      
+        <p>Join us in our fight against Cancer, Donate to <a href="https://www.stjude.org/" target="_blank">St. Jude's</a>.</p>
+
+    <p>
 
         <p><a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a></p>
 
