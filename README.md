@@ -83,22 +83,19 @@
 </p>
         <br>
             <li><b><u><i>Wellness programs</i></u></b></li>
-            <br>
-            <p style="line-height: 2.0;">
-                We offer structured programs to help guide aby member and patient to a healthier and smarter lifestyle. 
-                <br>
-                Included programs include physical programs to learn how to properly exercise with minimal weight and 
-                <br>
-                bodyweight for easy at home ease, Nutritional programs to learn the science for what a good functioning 
-                <br>
-                body needs to properly function everyday and healthy recipes to help maintain optimal health, Mental
-                <br>
-                Health training which is given through our top-notch licensed professionals to help emotionally support and
-                <br>
-                help all patients in their time of need, and lastly our addiction specialists which are pampered to help all 
-                <br>
-                individuals learn how to get off of their vices in the healthiest and safest way.
-            </p>
+<br>
+<p style="line-height: 2.0;">
+    We offer structured programs to help guide any member and patient to a healthier and smarter lifestyle.
+    <br>
+    Included programs include physical programs to learn how to properly exercise with minimal weight and 
+    <br>
+    bodyweight for easy at home ease:
+</p>
+<ol style="line-height: 2.0;">
+    <li>Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health</li>
+    <li>Mental Health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need</li>
+    <li>Our addiction specialists which are pampered to help all individuals learn how to get off of their vices in the healthiest and safest way</li>
+</ol>
                 <br>
             <li><b><u><i>Medical Supply Delivery</i></u></b></li>
             <br>
