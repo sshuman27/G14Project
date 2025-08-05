@@ -124,7 +124,7 @@
 
         <p><a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a></p>
 
-        <p><a href="sshuman@purdue.edu"><u>Contact Us</u></a></p>
+        <p><a href="sshuman@purdue.edu"><u>Have a Question?</u></a></p>
     </div>
 
     <footer>
