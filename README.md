@@ -115,6 +115,8 @@
             </p>
             <li><b><u><i>Community outreach</i></u></b></li>
             <br>
+          <p style="line-height: 2.0;">
+          We at Eloheh value the ability to be involved with each local community and make it our mission to serve each and every community we are graciously included in. We have done health fairs so people can learn more about how health works and how to improve ones own life through easy daily improvements, Screenings for the local people who can't afford to get screenings on a normal occasion, and workshops to teach the youth about how the body works and guide them into the field of healthcare if they deem it proper. All of these events are with local community organizations to help everyone in the community prosper and improve the most they can. All events are free in our communities and are beneficial for each and every person in the community.
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
