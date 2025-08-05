@@ -125,7 +125,7 @@
         <p>Join us in our fight against Cancer, Donate to <a href="https://www.stjude.org/" target="_blank">St. Jude's</a>.</p>
 
     <p>
-    <a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a>
+    <a class="button" href="eloheh_services_info.pdf" download>Full list of available services</a>
 </p>
 
 <p>
