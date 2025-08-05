@@ -125,19 +125,21 @@
         <p>Join us in our fight against Cancer, Donate to <a href="https://www.stjude.org/" target="_blank">St. Jude's</a>.</p>
 
     <p>
+    <a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a>
+</p>
 
-        <p><a class="button" href="eloheh_services_brochure.pdf" download>Download Brochure</a></p>
+<p>
+    <a href="mailto:sshuman@purdue.edu"><u>Have a Question?</u></a>
+</p>
+</div>
 
-        <p><a href="sshuman@purdue.edu"><u>Have a Question?</u></a></p>
-    </div>
-
-    <footer>
-        <p>Last updated: 
-            <script>
-                document.write(new Date(document.lastModified).toLocaleDateString());
-            </script>
-        </p>
-    </footer>
+<footer>
+    <p>Last updated: 
+        <script>
+            document.write(new Date(document.lastModified).toLocaleDateString());
+        </script>
+    </p>
+</footer>
 
 </body>
 </html>
