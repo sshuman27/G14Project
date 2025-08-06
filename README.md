@@ -1,6 +1,7 @@
 <html>
 <head>
     <title>Eloheh Healthcare - Services</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,6 +28,7 @@
             padding: 0 20px;
             color: white;
             text-shadow: 2px 2px 4px black;
+            font-family: 'Playfair Display', serif;
         }
 
         .container {
@@ -159,4 +161,4 @@
     </footer>
 
 </body>
-</html>
+</html
