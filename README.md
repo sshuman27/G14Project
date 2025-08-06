@@ -2,57 +2,93 @@
 <head>
     <title>Eloheh Healthcare - Services</title>
     <style>
-        
-        .banner {
-            background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
-            background-size: cover;
-            background-position: center;
-            height: 200px;
-            color: white;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            text-shadow: 1px 1px 3px black;
+        body {
+            background-color: #f0f8ff; /* Light blue background */
+            font-family: "Courier New", Courier, monospace; /* Classic monospace font */
+            color: #000080; /* Navy text color */
+            margin: 0;
+            padding: 0;
         }
 
-        .banner h1 {
-            font-family: Georgia, serif;
-            font-size: 44px;
+        .banner {
+            background-color: #000080; /* Navy solid background instead of image */
+            height: 100px; /* smaller banner height */
+            color: #ffff00; /* bright yellow text */
+            display: block; /* remove flex */
+            text-align: center;
+            line-height: 100px; /* vertical centering */
+            font-family: "Times New Roman", serif;
+            font-size: 36px;
+            font-weight: bold;
+            border-bottom: 3px solid #0000cd; /* royal blue border */
+            text-shadow: none;
         }
 
         .container {
             width: 90%;
             max-width: 800px;
             margin: 20px auto;
+            background-color: #ffffff; /* white background */
+            border: 3px double #000080; /* double navy border */
+            padding: 15px;
+            box-shadow: none;
         }
 
         ul {
             padding-left: 20px;
+            list-style-type: square;
+        }
+
+        ol {
+            padding-left: 30px;
+            list-style-type: decimal;
+        }
+
+        p {
+            line-height: 1.5;
+            color: #000080;
+            font-size: 14px;
+        }
+
+        a {
+            color: #0000ee; /* classic blue link */
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #551a8b; /* visited link purple */
         }
 
         .button {
             display: inline-block;
-            padding: 10px 15px;
-            background: #2F98BF;
-            color: white;
+            padding: 7px 12px;
+            background: #000080; /* navy button */
+            color: #ffff00; /* bright yellow text */
             text-decoration: none;
-            border-radius: 5px;
+            border: 2px outset #c0c0c0; /* classic 3D button effect */
+            font-weight: bold;
+            font-family: "Courier New", Courier, monospace;
             margin: 12px 0;
         }
 
+        .button:active {
+            border-style: inset; /* pressed effect */
+        }
+
         footer {
-            font-size: 15px;
-            color: gray;
+            font-size: 12px;
+            color: #000080;
             text-align: center;
             margin-top: 45px;
+            border-top: 1px solid #000080;
+            padding-top: 10px;
         }
     </style>
 </head>
 <body>
 
     <div class="banner">
-        <h1>Eloheh Healthcare Services</h1>
+        Eloheh Healthcare Services
     </div>
 
     <div class="container">
@@ -64,7 +100,7 @@
             <br>
             <li><b><u><i>At-home healthcare</i></u></b></li>
             <br>
-            <p style="line-height: 2.0; color: #484242;">
+            <p>
                 We provide a multitude of our best licensed professionals to provide at-home care specialized for you and
                 <br>
                 your loved ones. This can include anything from routine checkups to more serious care like administering
@@ -76,7 +112,7 @@
             <br>
             <li><b><u><i>Wellness programs</i></u></b></li>
             <br>
-            <p style="line-height: 2.0; color: #484242;">
+            <p>
                 We offer structured programs to help guide any member and patient to a healthier and smarter lifestyle.
                 <br>
                 Included programs include physical programs to learn how to properly exercise with minimal weight and
@@ -84,7 +120,7 @@
                 bodyweight for easy at-home ease:
             </p>
             <br>
-            <ol style="line-height: 2.0; color: #484242;">
+            <ol>
                 <li>Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health</li>
                 <br>
                 <li>Mental health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need</li>
@@ -94,7 +130,7 @@
             <br>
             <li><b><u><i>Medical Supply Delivery</i></u></b></li>
             <br>
-            <p style="line-height: 2.0; color: #484242;">
+            <p>
                 We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to 
                 <br>
                 wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our 
@@ -110,7 +146,7 @@
             <br>
             <li><b><u><i>Community outreach</i></u></b></li>
             <br>
-            <p style="line-height: 2.0; color: #484242;">
+            <p>
                 We at Eloheh value the ability to be involved with each local community and make it our mission to serve 
                 <br>
                 each and every community we are graciously included in. We have done health fairs so people can learn 
