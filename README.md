@@ -135,20 +135,14 @@
                 and every person in the community.
             </p>
         </ul>
-
-        <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
-      
         <p>Join us in our fight against Cancer, Donate to <a href="https://www.stjude.org/" target="_blank">St. Jude's</a>.</p>
-
         <p>
             <a class="button" href="eloheh_services_info.pdf" download>Full list of available services</a>
         </p>
-
         <p>
             <a href="mailto:sshuman@purdue.edu"><u>Have a Question?</u></a>
         </p>
     </div>
-
     <footer>
         <p>Last updated: 
             <script>
@@ -156,6 +150,5 @@
             </script>
         </p>
     </footer>
-
 </body>
 </html>
