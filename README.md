@@ -72,7 +72,7 @@
     <br>
     <li><b><u><i>At-home healthcare</i></u></b></li>
     <br>
-    <p style="line-height: 2.0; color: #333333;">
+    <p style="line-height: 2.0; color: #484242;">
         We provide a multitude of our best licensed professionals to provide at-home care specialized for you and
         <br>
         your loved ones. This can include anything from routine checkups to more serious care like administering
@@ -84,7 +84,7 @@
     <br>
     <li><b><u><i>Wellness programs</i></u></b></li>
     <br>
-    <p style="line-height: 2.0; color: #333333;">
+    <p style="line-height: 2.0; color: #484242;">
         We offer structured programs to help guide any member and patient to a healthier and smarter lifestyle.
         <br>
         Included programs include physical programs to learn how to properly exercise with minimal weight and
@@ -92,7 +92,7 @@
         bodyweight for easy at-home ease:
     </p>
     <br>
-    <ol style="line-height: 2.0; color: #333333;">
+    <ol style="line-height: 2.0; color: #484242;">
         <li>Nutritional programs to learn the science for what a good functioning body needs to properly function everyday and healthy recipes to help maintain optimal health</li>
         <br>
         <li>Mental health training which is given through our top-notch licensed professionals to help emotionally support and help all patients in their time of need</li>
@@ -102,7 +102,7 @@
     <br>
     <li><b><u><i>Medical Supply Delivery</i></u></b></li>
     <br>
-    <p style="line-height: 2.0; color: #333333;">
+    <p style="line-height: 2.0; color: #484242;">
     We are obliged to ensure the highest quality medicine is sent straight to your doorstep so you don't have to 
     <br>
     wait longer and spend extra time to get your life-saving medicine. We ensure the speedy delivery of our 
@@ -118,7 +118,7 @@
     <br>
     <li><b><u><i>Community outreach</i></u></b></li>
     <br>
-    <p style="line-height: 2.0; color: #333333;">
+    <p style="line-height: 2.0; color: #484242;">
         We at Eloheh value the ability to be involved with each local community and make it our mission to serve 
         <br>
         each and every community we are graciously included in. We have done health fairs so people can learn 
