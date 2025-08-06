@@ -52,7 +52,7 @@
 <body>
 
     <div class="banner">
-        <h1>Eloheh Healthcare Services</h1>
+        <h1>Eloheh Healthcare - Services</h1>
     </div>
 
     <div class="container">
