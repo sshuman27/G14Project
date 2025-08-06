@@ -2,6 +2,7 @@
 <head>
     <title>Eloheh Healthcare - Services</title>
     <style>
+        
         .banner {
             background-image: url('https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg?w=740');
             background-size: cover;
@@ -17,9 +18,7 @@
 
         .banner h1 {
             font-family: Georgia, serif;
-            padding: 0;
-            margin: 0;
-            font-size: 42px;
+            font-size: 44px;
         }
 
         .container {
@@ -39,14 +38,14 @@
             color: white;
             text-decoration: none;
             border-radius: 5px;
-            margin: 10px 0;
+            margin: 12px 0;
         }
 
         footer {
-            font-size: 14px;
+            font-size: 15px;
             color: gray;
             text-align: center;
-            margin-top: 40px;
+            margin-top: 45px;
         }
     </style>
 </head>
