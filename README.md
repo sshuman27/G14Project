@@ -41,7 +41,7 @@
         .button {
             display: inline-block;
             padding: 10px 15px;
-            background: green;
+            background: #2F98BF;
             color: white;
             text-decoration: none;
             border-radius: 5px;
