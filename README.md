@@ -1,7 +1,6 @@
 <html>
 <head>
     <title>Eloheh Healthcare - Services</title>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,12 +22,10 @@
         }
 
         .banner h1 {
+            font-family: Georgia, serif;
+            padding: 0;
             margin: 0;
-            font-size: 40px;
-            padding: 0 20px;
-            color: white;
-            text-shadow: 2px 2px 4px black;
-            font-family: 'Playfair Display', serif;
+            font-size: 42px;
         }
 
         .container {
@@ -140,7 +137,7 @@
         </ul>
 
         <img src="https://via.placeholder.com/800x300.png?text=Healthcare+Team" alt="Team photo" style="width: 100%; margin: 20px 0;">
-        
+      
         <p>Join us in our fight against Cancer, Donate to <a href="https://www.stjude.org/" target="_blank">St. Jude's</a>.</p>
 
         <p>
@@ -161,4 +158,4 @@
     </footer>
 
 </body>
-</html
+</html>
